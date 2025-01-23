@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Zachary. Fullstack developer from <b>China</b>, I have been living and working in <b>Tokyo, Japan</b> for 16 years as a full-stack developer.,currently living in <b>Auckland, New Zealand</b>. </p>
+<p>Welcome to my page! </br> I'm Zachary. Fullstack developer from <b>China</b>, I have been living and working in <b>Tokyo, Japan</b> for 16 years as a full-stack developer. Currently living in <b>Auckland, New Zealand</b>. </p>
 
 
 ## 💻 Tech Stack: 🕸️
